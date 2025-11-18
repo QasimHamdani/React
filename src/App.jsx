@@ -17,7 +17,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1 style="color:rgb(255, 0, 0);">Vite + React</h1>
 
       <Text/>  <Text/>  <Text/>  <Text/>
       <div className="card">
